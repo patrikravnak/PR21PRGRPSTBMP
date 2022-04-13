@@ -4,7 +4,7 @@
 Leto 2020 je zaznamovala epidemija covid-19 virusa, posledica katere je bila dolgotrajno obdobje karantena za državljane republike Slovenija. To je pomenilo, da so družinski člani preživljali več časa skupaj kot poprej. Z seminarsko naogo želimo ugotoviti, kako je to vplivalo na številov primerov kaznivih dejanj nasilja v družini ter njihovo intenziteto. Menimo da so faktorji, kot je uvedba splošne karantene ter omejitev gibanja, vplivali na število primer obravnav družinskega nasilja. Zanimalo nas je tudi, ali je med obdobjem policijske ure delež kriminala upadel.
 
 ## Tabele kaznivih dejanj
-Podatke spo dobili na <a href="https://www.policija.si/o-slovenski-policiji/statistika/kriminaliteta">spletni strani</a> policije Republike Slovenija. Podatki so zbrani za 10 let(2012 do 2021), za vsako leto v svoji datoteki. Število atributov je za vsako leto enako 33, število vnosov pa se giblje od 100.000 do 170.00. Podatke smo, kjer je bilo to smiselno, ustrezno preoblikovali in dopolnili(atibuti kjer NE ali BREZ pomeni isto kot prazen vnos, ipd...). Manjkajočih ali napačno vpisanih podatkov je zelo malo, zato smo take vnose odstranili.
+Podatke smo dobili na <a href="https://www.policija.si/o-slovenski-policiji/statistika/kriminaliteta">spletni strani</a> policije Republike Slovenija. Podatki so zbrani za 10 let(2012 do 2021), za vsako leto v svoji datoteki. Število atributov je za vsako leto enako 33, število vnosov pa se giblje od 100.000 do 170.00. Podatke smo, kjer je bilo to smiselno, ustrezno preoblikovali in dopolnili. Manjkajočih ali napačno vpisanih podatkov je zelo malo, zato smo take vnose odstranili.
 
 ## Atributi tabele kaznivih dejanj
 
@@ -48,3 +48,12 @@ Podatke spo dobili na <a href="https://www.policija.si/o-slovenski-policiji/stat
 <br>*DA ali NE, NN pomeni da ni bil opravljen test*
 - **OrganiziranaZdruzba** - Ali je bila oseba del kriminalne združbe
 - **Skoda** - Povzročena škoda v € oz. oznaka "BREZ"
+
+## Predprocesiranje
+
+Opazili smo, da imamo med atributi 3 vrste podatkov.
+- Številske podatke kot so ID-ji ter letnice smo pretvorili v tip int.
+- Besedilne podatke, kot so oznake kaznivih dejanj, uporabljeni predmeti, idr. smo spremenili v tip string.
+- Atributi ki so vsebovali samo dve vrednosti smo nastavili na tip bool.
+
+Glede na to da je bilo napačnih in manjkajočih vnosov zelo malo, smo le te odstranili, saj to ne bo bistveno vplivalo na končne rezultate. Razbrati je bilo možno tudi določene atribute, kjer pa smo lahko sklepali, da je manjkajoč zapis predstavljal eno izmed dveh drugih zapisanih vrednsti(navadno negacijo atributa).
