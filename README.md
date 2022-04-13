@@ -72,5 +72,4 @@ Za zadnjo točko pa se nam je zdelo zanimivo predpostaviti še kaj bi vplivalo n
 
 ## Dosedanje ugotovitve
 
-//Napište par stavkv ka se da razbrat iz podatkov pa na kako vprašanje odgovorit
 Za odgovor na naše prvo vprašanje smo prešteli koliko primerov se je zgodilo za posamezno vrsto kaznivega dejanja. Nato smo primerjali "NASILJE V DRUŽINI" po vseh letih. Ugotovili smo, da leto 2020 rahlo odstopa od povprečja prejšnih let in leta 2021. Zato lahko zaenkrat rečemo, da se je nasilje v družini povečalo, ampak da lahko to z gotovostjo trdimo, bomo morali odgovoriti tudi na naše drugo vprašanje.
