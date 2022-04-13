@@ -57,3 +57,19 @@ Opazili smo, da imamo med atributi 3 vrste podatkov.
 - Atributi ki so vsebovali samo dve vrednosti smo nastavili na tip bool.
 
 Glede na to da je bilo napačnih in manjkajočih vnosov zelo malo, smo le te odstranili, saj to ne bo bistveno vplivalo na končne rezultate. Razbrati je bilo možno tudi določene atribute, kjer pa smo lahko sklepali, da je manjkajoč zapis predstavljal eno izmed dveh drugih zapisanih vrednsti(navadno negacijo atributa).
+
+## Opis ciljev in metod
+
+Zadali smo si sledeča vprašanja na katera želimo odgovoriti:
+- 1. Ali sej je karanteno spremenila pogostost družinskega nasilja?
+- 2. Ali se je med karanteno spremenila pogostost drugih kaznivih dejanj?
+- 3. Kako je uvedba policijske ure vplivala na kriminal v nočnem času?
+
+Prvo vprašanje je tudi naša glavna tema seminarske. Prvoto je bilo potrebno določiti časovno obdobje, kdaj je v Sloveniji trajala splošna karantena. Ker so kriminalna dejanja v podatkih zabeležena le z mesecom natančno, smo časovno obdobje na začetku zakrožili navzgor, ta nakoncu karatena navzdol. Dobili smo sledeča dva obdobja, katera bomo primerjali glede na povprečja prejšnjih let;  4.2020 - 5.2020, 11.2020 - 1.2021. 
+A naša predpostavka ocenjuje samo povečanje družinskega nasilja, ne pa tudi ostale kriminalitete. Zaradi omejitev gibanja, bi prej lahko predvidevali, da bo le ta celo upadla. Zato si bomo pri naslednji točki pogledali kako je karantena vplivala na frekvenco vseh drugih oblik nasilja. Primerjati moramo tudi z trendom naraščanja/padanja skozi leta.
+Za zadnjo točko pa se nam je zdelo zanimivo predpostaviti še kaj bi vplivalo na zmanjšanje kriminala. Eden izmed primerov ki smo ga našli je policijska ura, ter število povzročenih dejanj v nočnem času, glede na prejšnja leta.(za policijsko uro smo uzeli obdobje 10.2020 - 4.2021)
+
+
+## Dosedanje ugotovitve
+
+//Napište par stavkv ka se da razbrat iz podatkov pa na kako vprašanje odgovorit
