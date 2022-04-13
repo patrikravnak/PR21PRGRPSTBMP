@@ -1,7 +1,10 @@
+# Vpliv karantene na pogostost nasilja v družini
 
+## Opis problema
+Leto 2020 je zaznamovala epidemija covid-19 virusa, posledica katere je bila dolgotrajno obdobje karantena za državljane republike Slovenija. To je pomenilo, da so družinski člani preživljali več časa skupaj kot poprej. Z seminarsko naogo želimo ugotoviti, kako je to vplivalo na številov primerov kaznivih dejanj nasilja v družini ter njihovo intenziteto. Menimo da so faktorji, kot je uvedba splošne karantene ter omejitev gibanja, vplivali na število primer obravnav družinskega nasilja. Zanimalo nas je tudi, ali je med obdobjem policijske ure delež kriminala upadel.
 
 ## Tabele kaznivih dejanj
-Podatki so zbrani od leta 2012 do 2021, za vsako leto v svoji datoteki. Število atributov je za vsako leto enako 33, število vnosov pa se giblje od 100.000 do 170.00. Podatke smo, kjer je bilo to smiselno, ustrezno preoblikovali in dopolnili(atibuti kjer NE ali BREZ pomeni isto kot prazen vnos). Manjkajočih ali napačno vpisanih podatkov je zelo malo, zato smo take vnose odstranili.
+Podatke spo dobili na <a href="https://www.policija.si/o-slovenski-policiji/statistika/kriminaliteta">spletni strani</a> policije Republike Slovenija. Podatki so zbrani za 10 let(2012 do 2021), za vsako leto v svoji datoteki. Število atributov je za vsako leto enako 33, število vnosov pa se giblje od 100.000 do 170.00. Podatke smo, kjer je bilo to smiselno, ustrezno preoblikovali in dopolnili(atibuti kjer NE ali BREZ pomeni isto kot prazen vnos, ipd...). Manjkajočih ali napačno vpisanih podatkov je zelo malo, zato smo take vnose odstranili.
 
 ## Atributi tabele kaznivih dejanj
 
