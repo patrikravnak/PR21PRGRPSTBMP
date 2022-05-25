@@ -61,7 +61,7 @@ Glede na to da je bilo napačnih in manjkajočih vnosov zelo malo, smo le te ods
 ## Opis ciljev in metod
 
 Zadali smo si sledeča vprašanja na katera želimo odgovoriti:
-- 1. Ali sej je karanteno spremenila pogostost družinskega nasilja?
+- 1. Ali se je med karanteno spremenila pogostost družinskega nasilja?
 - 2. Ali se je med karanteno spremenila pogostost drugih kaznivih dejanj?
 - 3. Kako je uvedba policijske ure vplivala na kriminal v nočnem času?
 
